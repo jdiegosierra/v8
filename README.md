@@ -1,5 +1,26 @@
 Forked and added new functions in order to understand V8.
 
+Below all the task that you need to check my changes:
+
+1. Follow this steps
+https://v8.dev/docs/source-code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 V8 JavaScript Engine
 =============
