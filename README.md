@@ -1,3 +1,6 @@
+Forked and added new functions in order to understand V8.
+
+
 V8 JavaScript Engine
 =============
 
